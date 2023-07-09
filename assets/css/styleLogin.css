@@ -6,7 +6,7 @@ body {
   padding: 0;
   font-family: Arial, sans-serif;
   background-color: #f1f1f1;
-  background-image: url(/assets/img/manosmedicaconceluenmesa-min.jpg);
+  background-image: url(../img/manosmedicaconceluenmesa-min.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
