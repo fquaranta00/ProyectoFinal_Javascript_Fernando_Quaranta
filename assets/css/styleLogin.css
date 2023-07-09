@@ -6,7 +6,7 @@ body {
   padding: 0;
   font-family: Arial, sans-serif;
   background-color: #f1f1f1;
-  background-image: url(../img/manosmedicaconceluenmesa-min.jpg);
+  background-image: url(../img/manosmedicaconceluenmesa-min.jpg);/*Si la imagen no aparece es porque tenes el adblocker activado en el navegador*/
   background-repeat: no-repeat;
   background-size: cover;
 }
